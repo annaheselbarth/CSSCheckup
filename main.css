@@ -1,0 +1,40 @@
+/* rule-set #1: Everything within a css-classes class will have a yellow background. */
+.css-classes {
+    background-color:yellow;
+}
+
+/* rule-set #2 */
+h1{
+    text-align: center;
+}
+
+/* rule-set #3 */
+.margins-padding{
+    border:2px solid blue;
+    margin-top: 100px;
+    margin-right: 350px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+    padding: 40px 40px 40px 80px;
+}
+
+/* rule-set #4 */
+.padding-class{
+    border: 2px; solid blue;
+     margin: 75px 75px 75px 75px;
+     padding: 25px 25px 25px 50px;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.padding-class{
+    height: 250px;
+    width: 50%;
+    background-color: turquoise;
+}
